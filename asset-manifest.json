@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2cd5e5b7.css",
+    "main.js": "/static/js/main.2e9a9e50.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "static/media/portfolio.jpg": "/static/media/portfolio.4a9b512d3e7b2d203b5b.jpg",
+    "static/media/flutter-nihongo.png": "/static/media/flutter-nihongo.3baa666ec7b921757136.png",
+    "static/media/shiritori.jpg": "/static/media/shiritori.cfad6a8a203df77b34fd.jpg",
+    "static/media/android_proj.png": "/static/media/android_proj.4bdefb40946c4ab1f710.png",
+    "index.html": "/index.html",
+    "main.2cd5e5b7.css.map": "/static/css/main.2cd5e5b7.css.map",
+    "main.2e9a9e50.js.map": "/static/js/main.2e9a9e50.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cd5e5b7.css",
+    "static/js/main.2e9a9e50.js"
+  ]
+}
